@@ -1,6 +1,6 @@
-# Release assets — author-review staging
+# Release assets — approved pre-release
 
-The frozen binary assets for `v1.0` are byte-fixed and are now staged in this review branch. They may be inspected/downloaded here before author approval. No GitHub Release / Zenodo archival action has been triggered.
+The frozen binary assets for `v1.0` are byte-fixed, author-approved, and present on `main`. No GitHub Release / Zenodo archival action has been triggered yet.
 
 Expected asset set:
 
@@ -10,4 +10,4 @@ Expected asset set:
 
 Canonical SHA-256 values are recorded in `../SHA256SUMS.txt`.
 
-**Hold:** staging these binaries does not authorize a tag, GitHub Release, or Zenodo archival action. Those remain blocked until author approval.
+**Release state:** author approval has been granted. Tag / GitHub Release / Zenodo archival are the remaining publication actions.
