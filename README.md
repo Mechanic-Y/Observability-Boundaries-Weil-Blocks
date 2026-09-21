@@ -2,11 +2,11 @@
 
 **A Finite-Dimensional Analysis of Off-Line Zero Collisions**
 
-**Planned first release:** `v1.0`  
-**Status:** FROZEN / author-approved / release-ready  
+**Current release:** `v1.0`  
+**Status:** FROZEN / published / Zenodo archived  
 **Author:** Yasuyuki Wakita (Mechanic-Y)  
 **Affiliation:** Independent Researcher  
-**Zenodo DOI:** not assigned yet — GitHub Release / Zenodo archival not yet triggered
+**Zenodo DOI:** [10.5281/zenodo.22877149](https://doi.org/10.5281/zenodo.22877149)
 
 ## Overview
 
@@ -39,9 +39,9 @@ so the possible leading orders in the real-symmetric analytic model class are `2
 
 ## Frozen Public Assets
 
-> **Pre-release note:** The author-approved byte-fixed release binaries are now on `main`. No tag, GitHub Release, or Zenodo deposit has been triggered yet.
+> **Published release:** V1.0 is published as GitHub Release `v1.0` and archived on Zenodo as DOI [10.5281/zenodo.22877149](https://doi.org/10.5281/zenodo.22877149). The frozen release binaries remain byte-fixed.
 
-Staged frozen assets:
+Frozen release assets:
 
 1. `Observability_Boundaries_V1.0_JA_FROZEN.pdf`
 2. `Observability_Boundaries_V1.0_EN_FROZEN.pdf`
@@ -71,7 +71,7 @@ The repository follows the same release discipline used in the ReIG publication 
 - SHA-256 release manifests;
 - GitHub Release -> Zenodo archival workflow.
 
-The frozen PDFs are treated as immutable byte sequences. The Zenodo DOI will be added to repository metadata after the DOI is assigned; the frozen PDFs themselves will not be regenerated merely to embed the DOI.
+The frozen PDFs are treated as immutable byte sequences. Zenodo DOI [10.5281/zenodo.22877149](https://doi.org/10.5281/zenodo.22877149) was added to repository metadata after publication without regenerating the frozen PDFs.
 
 ## Repository Structure
 
@@ -127,15 +127,16 @@ MIT License. See [`LICENSE`](LICENSE).
 ## Links
 
 - GitHub repository: `https://github.com/Mechanic-Y/Observability-Boundaries-Weil-Blocks`
-- GitHub Pages: source page is ready in `index.html`; site publication setting still needs to be enabled
-- Zenodo DOI: pending the first `v1.0` GitHub Release and Zenodo ingestion
+- GitHub Pages: https://mechanic-y.github.io/Observability-Boundaries-Weil-Blocks/
+- Zenodo DOI: [10.5281/zenodo.22877149](https://doi.org/10.5281/zenodo.22877149)
+- Zenodo record: https://zenodo.org/records/22877149
 
-## Provisional Citation (before DOI assignment)
+## Citation
 
 ```text
 Wakita, Yasuyuki. (2026). Observability Boundaries for Near-Critical Weil Blocks:
 A Finite-Dimensional Analysis of Off-Line Zero Collisions (Version 1.0).
-Independent Researcher. GitHub release v1.0.
+Independent Researcher. Zenodo. https://doi.org/10.5281/zenodo.22877149
 ```
 
-After Zenodo assigns the DOI, the DOI citation will be added here without modifying the frozen PDFs.
+Zenodo record: https://zenodo.org/records/22877149. Frozen PDFs and the `v1.0` tag remain unchanged.
