@@ -10,6 +10,7 @@
 - [x] GitHub/Zenodo publication scaffold prepared.
 - [x] Create public repository `Mechanic-Y/Observability-Boundaries-Weil-Blocks`.
 - [ ] Author-review the `publication-v1.0-review` branch and Draft PR.
+- [x] Stage canonical JA/EN PDFs and full Frozen ZIP on the review branch without changing bytes.
 - [ ] Merge the publication scaffold without regenerating frozen assets.
 - [ ] Enable GitHub Pages from `main` / root.
 
