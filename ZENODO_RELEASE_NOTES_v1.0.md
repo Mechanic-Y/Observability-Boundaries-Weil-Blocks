@@ -43,8 +43,8 @@ This publication package was prepared with assistance from ChatGPT (OpenAI) and 
 ## Final Publication Checklist
 
 - [x] GitHub repository created and public.
-- [ ] Publication review branch inspected and approved by the author.
-- [ ] README, Pages, `.zenodo.json`, `CITATION.cff`, release notes, manifest, and checksums merged to `main`.
+- [x] Publication review branch inspected and approved by the author.
+- [x] README, Pages, `.zenodo.json`, `CITATION.cff`, release notes, manifest, checksums, and frozen assets merged to `main`.
 - [ ] GitHub Pages enabled.
 - [ ] Repository enabled in Zenodo GitHub integration.
 - [ ] Release tag `v1.0` created from the frozen publication commit.
