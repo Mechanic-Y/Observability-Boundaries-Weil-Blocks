@@ -1,0 +1,45 @@
+{
+  "title": "Observability Boundaries for Near-Critical Weil Blocks: A Finite-Dimensional Analysis of Off-Line Zero Collisions",
+  "version": "1.0",
+  "creators": [
+    {
+      "name": "Wakita, Yasuyuki",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "This V1.0 frozen bilingual preprint studies the local collision limit of a single off-line reflection pair in a fixed finite-dimensional zero-side matrix of Weil type. It records an explicit quadratic collision coefficient, separates exact negative detection from a vanishing geometric robustness margin, and gives a higher-order real-symmetric transverse-jet classification with leading negative-eigenvalue orders 4q+2. The results are restricted to a fixed finite-dimensional, fixed-collision-ordinate, single-pair local setting. They do not prove the Riemann Hypothesis, do not establish a no-go theorem for the Alpoge-Furman method as a whole, and do not treat general interacting multi-pair or infinite-dimensional limits. The release includes synchronized Japanese/English manuscripts, source files, audit records, and SHA-256 provenance.",
+  "keywords": [
+    "Riemann zeta function",
+    "Weil explicit formula",
+    "near-critical zeros",
+    "finite-dimensional spectral analysis",
+    "matrix perturbation",
+    "negative inertia",
+    "observability",
+    "detector regularity",
+    "transverse jets",
+    "real-symmetric analytic families",
+    "reproducible research",
+    "SHA-256 provenance"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Mechanic-Y/Observability-Boundaries-Weil-Blocks",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://mechanic-y.github.io/Observability-Boundaries-Weil-Blocks/",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "publication-other"
+    }
+  ],
+  "communities": []
+}
