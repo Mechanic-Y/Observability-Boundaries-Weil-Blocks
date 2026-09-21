@@ -39,15 +39,21 @@ so the possible leading orders in the real-symmetric analytic model class are `2
 
 ## Frozen Public Assets
 
-> **Review-stage note:** This branch is being prepared for author review. No GitHub Release or Zenodo deposit has been triggered yet. Frozen bytes and SHA-256 values must remain unchanged through approval.
+> **Review-stage note:** The binary release assets are intentionally held back during this author-review branch. No GitHub Release or Zenodo deposit has been triggered. Their byte-fixed SHA-256 values are already frozen and recorded below; the exact files will be placed/attached only after author approval.
 
-The canonical V1.0 release assets are stored in [`releases/v1.0/release_assets/`](releases/v1.0/release_assets/):
+Expected final public assets:
 
 1. `Observability_Boundaries_V1.0_JA_FROZEN.pdf`
 2. `Observability_Boundaries_V1.0_EN_FROZEN.pdf`
 3. `Observability_Boundaries_V1.0_FROZEN.zip` — full frozen source/audit package
 
-Integrity metadata:
+Canonical hashes:
+
+- JA PDF: `f4d79a8a8ee98878471d9a998f9c47abd8c8b6d00a4d94087de83543a75b10ad`
+- EN PDF: `9070f0b9e4bd05371c4ef425c092b5cf482e735c543f0e38e72057069740746a`
+- Full Frozen ZIP: `d99fd0fe91fa91cde5538e650fce3e8cf77788f192095df2c392a6a67a7d82ed`
+
+Integrity metadata already staged for review:
 
 - [`releases/v1.0/MANIFEST_v1.0.md`](releases/v1.0/MANIFEST_v1.0.md)
 - [`releases/v1.0/SHA256SUMS.txt`](releases/v1.0/SHA256SUMS.txt)
@@ -85,23 +91,18 @@ Observability-Boundaries-Weil-Blocks/
 │       ├── SHA256SUMS.txt
 │       ├── RELEASE_NOTES.md
 │       └── release_assets/
-│           ├── Observability_Boundaries_V1.0_JA_FROZEN.pdf
-│           ├── Observability_Boundaries_V1.0_EN_FROZEN.pdf
-│           └── Observability_Boundaries_V1.0_FROZEN.zip
+│           └── README.md   # binaries added only after author approval
 │
 ├── paper/
-│   ├── source/
-│   │   ├── markdown/
-│   │   └── typeset/
 │   ├── audit/
 │   └── FROZEN_PACKAGE_MANIFEST_SHA256.txt
 │
-└── docs/
+└── docs/                  # optional future documentation
 ```
 
 ## Version and Freeze Policy
 
-`v1.0` is the first public frozen release.
+`v1.0` is the planned first public frozen release.
 
 Any later change to mathematical content, frozen PDF bytes, or theorem statements requires a new version. Metadata-only updates after Zenodo DOI assignment may update the repository's `main` branch without modifying the `v1.0` release tag or frozen release assets.
 
@@ -121,8 +122,8 @@ MIT License. See [`LICENSE`](LICENSE).
 ## Links
 
 - GitHub repository: `https://github.com/Mechanic-Y/Observability-Boundaries-Weil-Blocks`
-- GitHub Pages: `https://mechanic-y.github.io/Observability-Boundaries-Weil-Blocks/`
-- Zenodo DOI: assigned after the first `v1.0` GitHub Release
+- GitHub Pages: planned after author approval
+- Zenodo DOI: assigned only after the first approved `v1.0` GitHub Release
 
 ## Provisional Citation (before DOI assignment)
 
