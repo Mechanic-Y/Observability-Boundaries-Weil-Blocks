@@ -9,19 +9,19 @@
 - [x] Release asset SHA-256 values fixed.
 - [x] GitHub/Zenodo publication scaffold prepared.
 - [x] Create public repository `Mechanic-Y/Observability-Boundaries-Weil-Blocks`.
-- [ ] Author-review the `publication-v1.0-review` branch and Draft PR.
+- [x] Author-review the `publication-v1.0-review` branch and Draft PR.
 - [x] Stage canonical JA/EN PDFs and full Frozen ZIP on the review branch without changing bytes.
-- [ ] Merge the publication scaffold without regenerating frozen assets.
+- [x] Merge the publication scaffold without regenerating frozen assets.
 - [ ] Enable GitHub Pages from `main` / root.
 
-## Phase 2 — Zenodo integration — HOLD UNTIL AUTHOR APPROVAL
+## Phase 2 — Zenodo integration — AUTHOR APPROVED / NOT YET ENABLED
 
 - [ ] In Zenodo, open Profile -> GitHub.
 - [ ] Click `Sync now`.
 - [ ] Enable `Observability-Boundaries-Weil-Blocks`.
 - [ ] Confirm `.zenodo.json` metadata before release.
 
-## Phase 3 — GitHub Release — HOLD UNTIL AUTHOR APPROVAL
+## Phase 3 — GitHub Release — AUTHOR APPROVED / NOT YET PUBLISHED
 
 - [ ] Create tag `v1.0` from the publication-ready commit.
 - [ ] Release title: `Observability Boundaries V1.0 — Frozen Bilingual Release`.
