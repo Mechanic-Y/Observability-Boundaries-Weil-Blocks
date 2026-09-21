@@ -39,9 +39,9 @@ so the possible leading orders in the real-symmetric analytic model class are `2
 
 ## Frozen Public Assets
 
-> **Review-stage note:** The binary release assets are intentionally held back during this author-review branch. No GitHub Release or Zenodo deposit has been triggered. Their byte-fixed SHA-256 values are already frozen and recorded below; the exact files will be placed/attached only after author approval.
+> **Review-stage note:** The byte-fixed release binaries are now staged on this review branch for inspection. No tag, GitHub Release, or Zenodo deposit has been triggered. Author approval is still required before merge/release.
 
-Expected final public assets:
+Staged frozen assets:
 
 1. `Observability_Boundaries_V1.0_JA_FROZEN.pdf`
 2. `Observability_Boundaries_V1.0_EN_FROZEN.pdf`
@@ -91,9 +91,14 @@ Observability-Boundaries-Weil-Blocks/
 │       ├── SHA256SUMS.txt
 │       ├── RELEASE_NOTES.md
 │       └── release_assets/
-│           └── README.md   # binaries added only after author approval
+│           ├── README.md
+│           ├── Observability_Boundaries_V1.0_JA_FROZEN.pdf
+│           ├── Observability_Boundaries_V1.0_EN_FROZEN.pdf
+│           └── Observability_Boundaries_V1.0_FROZEN.zip
 │
 ├── paper/
+│   ├── source/
+│   │   └── Observability_Boundaries_V1.0_Design_v2_Source_Package.zip
 │   ├── audit/
 │   └── FROZEN_PACKAGE_MANIFEST_SHA256.txt
 │
