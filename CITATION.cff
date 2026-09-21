@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Observability Boundaries for Near-Critical Weil Blocks: A Finite-Dimensional Analysis of Off-Line Zero Collisions"
+type: article
+version: "1.0"
+date-released: 2026-09-21
+authors:
+  - family-names: Wakita
+    given-names: Yasuyuki
+    alias: Mechanic-Y
+    affiliation: Independent Researcher
+license: MIT
+repository-code: "https://github.com/Mechanic-Y/Observability-Boundaries-Weil-Blocks"
+url: "https://mechanic-y.github.io/Observability-Boundaries-Weil-Blocks/"
+abstract: >-
+  A fixed finite-dimensional single-pair local analysis of near-critical
+  off-line zero collisions in a zero-side matrix of Weil type, including
+  an explicit quadratic collision coefficient, exact negative detection
+  with vanishing geometric margin, and a higher-order real-symmetric
+  transverse-jet classification. The work does not prove the Riemann
+  Hypothesis and does not claim a general aggregate or infinite-dimensional result.
+keywords:
+  - Riemann zeta function
+  - Weil explicit formula
+  - finite-dimensional spectral analysis
+  - matrix perturbation
+  - observability
+  - transverse jets
