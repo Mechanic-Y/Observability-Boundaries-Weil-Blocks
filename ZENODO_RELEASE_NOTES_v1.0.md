@@ -7,7 +7,8 @@
 **Affiliation:** Independent Researcher  
 **License:** MIT License  
 **Resource type:** Publication / Preprint  
-**Zenodo DOI:** pending first GitHub release
+**Zenodo DOI:** [10.5281/zenodo.22877149](https://doi.org/10.5281/zenodo.22877149)  
+**Zenodo record:** https://zenodo.org/records/22877149
 
 ## Zenodo Description
 
@@ -45,11 +46,11 @@ This publication package was prepared with assistance from ChatGPT (OpenAI) and 
 - [x] GitHub repository created and public.
 - [x] Publication review branch inspected and approved by the author.
 - [x] README, Pages, `.zenodo.json`, `CITATION.cff`, release notes, manifest, checksums, and frozen assets merged to `main`.
-- [ ] GitHub Pages enabled.
-- [ ] Repository enabled in Zenodo GitHub integration.
-- [ ] Release tag `v1.0` created from the frozen publication commit.
-- [ ] GitHub Release published.
-- [ ] Zenodo ingestion completed.
-- [ ] Zenodo metadata reviewed and record published/confirmed.
-- [ ] DOI copied back to README, Pages, CITATION, and this file.
-- [ ] Frozen PDF bytes and `v1.0` tag left unchanged.
+- [x] GitHub Pages enabled.
+- [x] Repository enabled in Zenodo GitHub integration.
+- [x] Release tag `v1.0` created from the frozen publication commit.
+- [x] GitHub Release published.
+- [x] Zenodo ingestion completed.
+- [x] Zenodo record published and DOI assigned.
+- [x] DOI copied back to README, Pages, CITATION, and this file.
+- [x] Frozen PDF bytes and `v1.0` tag left unchanged.
