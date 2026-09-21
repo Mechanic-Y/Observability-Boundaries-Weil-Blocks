@@ -3,10 +3,10 @@
 **A Finite-Dimensional Analysis of Off-Line Zero Collisions**
 
 **Planned first release:** `v1.0`  
-**Status:** FROZEN / author review before first GitHub Release and Zenodo archival  
+**Status:** FROZEN / author-approved / release-ready  
 **Author:** Yasuyuki Wakita (Mechanic-Y)  
 **Affiliation:** Independent Researcher  
-**Zenodo DOI:** not assigned yet — Zenodo integration will occur only after author approval
+**Zenodo DOI:** not assigned yet — GitHub Release / Zenodo archival not yet triggered
 
 ## Overview
 
@@ -39,7 +39,7 @@ so the possible leading orders in the real-symmetric analytic model class are `2
 
 ## Frozen Public Assets
 
-> **Review-stage note:** The byte-fixed release binaries are now staged on this review branch for inspection. No tag, GitHub Release, or Zenodo deposit has been triggered. Author approval is still required before merge/release.
+> **Pre-release note:** The author-approved byte-fixed release binaries are now on `main`. No tag, GitHub Release, or Zenodo deposit has been triggered yet.
 
 Staged frozen assets:
 
@@ -53,7 +53,7 @@ Canonical hashes:
 - EN PDF: `9070f0b9e4bd05371c4ef425c092b5cf482e735c543f0e38e72057069740746a`
 - Full Frozen ZIP: `d99fd0fe91fa91cde5538e650fce3e8cf77788f192095df2c392a6a67a7d82ed`
 
-Integrity metadata already staged for review:
+Integrity metadata:
 
 - [`releases/v1.0/MANIFEST_v1.0.md`](releases/v1.0/MANIFEST_v1.0.md)
 - [`releases/v1.0/SHA256SUMS.txt`](releases/v1.0/SHA256SUMS.txt)
@@ -107,7 +107,7 @@ Observability-Boundaries-Weil-Blocks/
 
 ## Version and Freeze Policy
 
-`v1.0` is the planned first public frozen release.
+`v1.0` is the approved first public frozen release.
 
 Any later change to mathematical content, frozen PDF bytes, or theorem statements requires a new version. Metadata-only updates after Zenodo DOI assignment may update the repository's `main` branch without modifying the `v1.0` release tag or frozen release assets.
 
@@ -127,8 +127,8 @@ MIT License. See [`LICENSE`](LICENSE).
 ## Links
 
 - GitHub repository: `https://github.com/Mechanic-Y/Observability-Boundaries-Weil-Blocks`
-- GitHub Pages: planned after author approval
-- Zenodo DOI: assigned only after the first approved `v1.0` GitHub Release
+- GitHub Pages: source page is ready in `index.html`; site publication setting still needs to be enabled
+- Zenodo DOI: pending the first `v1.0` GitHub Release and Zenodo ingestion
 
 ## Provisional Citation (before DOI assignment)
 
